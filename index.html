@@ -273,7 +273,7 @@ nodeSel
   .on("click", (_, d) => {
     const folder = {Foundations:"Foundations",Algorithms:"Algorithms",Protocols:"Protocols",Qiskit:"Qiskit",root:""}[d.g];
     const path = folder ? `${folder}/${d.id}.md` : `${d.id}.md`;
-    window.open(`https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/${encodeURIComponent(path)}`, "_blank");
+    window.open(`https://github.com/AnuraagRath/QuantumComputingCourse/blob/main/${path.split('/').map(encodeURIComponent).join('/')}`, "_blank");
   });
 
 // ── Tick ──────────────────────────────────────────────────────────────────────
