@@ -12,7 +12,7 @@
 
 <br/>
 
-> *A complete knowledge vault for mastering Quantum Computing — built as interconnected Markdown notes with deep mathematical explanations, designed for someone coming from a Machine Learning / Deep Learning background.*
+> *A complete knowledge vault for mastering Quantum Computing — built as interconnected Markdown notes with deep mathematical explanations, designed for someone coming from a Machine Learning / Deep Learning background. Inspired by the amazing IBM Qiskit notebook(now deprecated)*
 
 </div>
 
