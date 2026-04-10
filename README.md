@@ -169,6 +169,6 @@ Every note follows the same structure:
 
 <div align="center">
 
-Made with 🖤 using [Obsidian](https://obsidian.md) · Visualised with [D3.js](https://d3js.org)
+Made with 🖤 by Anuraag Rath
 
 </div>
