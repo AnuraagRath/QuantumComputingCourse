@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚛ Quantum Computing
+# ⚛ Quantum Computing Course
 ### From First Principles to Qiskit
 
 <br/>
