@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Graph View](https://img.shields.io/badge/🔭_Interactive_Graph-Open_Now-58a6ff?style=for-the-badge&logoColor=white)](https://anuraagrath.github.io/QuantumComputingCourse/)
+[![Graph View](https://img.shields.io/badge/🔭_Interactive_Graph-Open_Now-58a6ff?style=for-the-badge&logoColor=white)](https://anuraagrath.github.io/NewQiskitNotebook)
 [![Notes](https://img.shields.io/badge/Notes-34-3fb950?style=for-the-badge)](.)
 [![Connections](https://img.shields.io/badge/Connections-97-d2a8ff?style=for-the-badge)](.)
 [![Built With](https://img.shields.io/badge/Built_with-Obsidian_+_D3.js-e3b341?style=for-the-badge)](.)
@@ -24,7 +24,7 @@
 
 **Click any node → opens the note. Hover → highlights connections. Search → filters the graph.**
 
-[![Open Graph](https://img.shields.io/badge/Open_Interactive_Graph_View_%E2%86%92-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://anuraagrath.github.io/QuantumComputingCourse/)
+[![Open Graph](https://img.shields.io/badge/Open_Interactive_Graph_View_%E2%86%92-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://anuraagrath.github.io/NewQiskitNotebook/)
 
 </div>
 
