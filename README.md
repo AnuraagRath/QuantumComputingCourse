@@ -1,7 +1,7 @@
 <div align="center">
 
-# ⚛ Quantum Computing Course
-### From First Principles to Qiskit
+# ⚛ The New Qiskit Notebook
+### Quantum Computing from First Principles
 
 <br/>
 
